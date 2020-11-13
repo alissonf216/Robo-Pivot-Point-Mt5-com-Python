@@ -1,6 +1,7 @@
 # Robô-Pivot-Point-Mt5-com-Python
 
-https://youtu.be/mD7_zojami4
+![Resultado](https://youtu.be/mD7_zojami4)
+
 
 Robôs Investidores para Metatrader 5, usando a estratégia de Pivot Point feito em python.
 Para que esse robô funcione você precisa ter algumas bibliotecas instaladas em seu python:
