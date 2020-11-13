@@ -24,6 +24,6 @@ Suporte 2 = Pivot - (R1 - S1)
 
 Suporte 3 = Low - 2*(High - Pivot)
 
-![Resultado](https://github.com/alissonf216/predicao-de-acoes/blob/master/Sem%20t%C3%ADtulo.png)
+![Resultado](https://github.com/alissonf216/Robo-Pivot-Point-Mt5-com-Python/blob/main/ilustrac.png)
 
 Obs: Isso nao é uma indicação que essa é a melhor estrategia para negocioação, é a penas um estudo.
