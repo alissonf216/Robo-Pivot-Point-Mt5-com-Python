@@ -7,9 +7,9 @@ O indicador também fornece as três primeiros suportes e resistências.
 
 As fórmulas que eu usei são:
 
-Resistência 3 = High + 2*(Pivot - Low)
-Resistência 2 = Pivot + (R1 - S1)
-Resistência 1 = 2 * Pivot - Low
+Resistência 3 = High + 2*(Pivot - Low);
+Resistência 2 = Pivot + (R1 - S1);
+Resistência 1 = 2 * Pivot - Low;
 Pontos Pivô = ( High + Close + Low )/3
 Suporte 1 = 2 * Pivot - High
 Suporte 2 = Pivot - (R1 - S1)
